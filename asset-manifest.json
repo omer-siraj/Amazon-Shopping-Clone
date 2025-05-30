@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Amazon-Shopping-Clone/static/css/main.133e9fa5.css",
+    "main.js": "/Amazon-Shopping-Clone/static/js/main.4988fdf5.js",
+    "static/media/10001.jpg": "/Amazon-Shopping-Clone/static/media/10001.2f5cc63b7e4512dd2789.jpg",
+    "static/media/10005.jpg": "/Amazon-Shopping-Clone/static/media/10005.4d36865f92d63b2519a7.jpg",
+    "static/media/10003.jpg": "/Amazon-Shopping-Clone/static/media/10003.16272162b96e28f935c4.jpg",
+    "static/media/10004.jpg": "/Amazon-Shopping-Clone/static/media/10004.805821d23a3f63566f17.jpg",
+    "static/media/10002.jpg": "/Amazon-Shopping-Clone/static/media/10002.225aaef918f59e5de14a.jpg",
+    "index.html": "/Amazon-Shopping-Clone/index.html",
+    "main.133e9fa5.css.map": "/Amazon-Shopping-Clone/static/css/main.133e9fa5.css.map",
+    "main.4988fdf5.js.map": "/Amazon-Shopping-Clone/static/js/main.4988fdf5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.133e9fa5.css",
+    "static/js/main.4988fdf5.js"
+  ]
+}
